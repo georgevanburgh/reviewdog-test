@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Stylecop
+namespace stylecop
 {
     public class Program
     {
