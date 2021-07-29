@@ -1,0 +1,5 @@
+runner:
+  dotnet:
+    cmd: dotnet build -clp:NoSummary -p:GenerateFullPaths=true --no-incremental --nologo -v q
+    errorformat: # (optional if you use `format`)
+      - dotnet
